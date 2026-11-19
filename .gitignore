@@ -1,0 +1,7 @@
+# Большой исходный датасет (> 25 МБ)
+dst-3.0_16_1_hh_database.csv
+
+# Служебные файлы Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
